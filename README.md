@@ -2,21 +2,21 @@
 <p align="center">
 </p>
 
-<a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=50px> </a>
+<a href="https://hack36.com" > <img src="http://bit.ly/BuiltAtHack36" height=50px > </a>
+
 
 
 ## Introduction:
   Intro of the project
   
 ## Demo Video Link:
-  <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
+  
+  [https://youtu.be/G_uLN5l6YDs](https://www.youtube.com/watch?v=G_uLN5l6YDs&t=1s)
   
 ## Presentation Link:
-  <a href="https://docs.google.com/presentation/d/1NEbqpM6J6UkmHN_J6NsgOhKvDU6fkfnli4OIg1lh-pk/edit?usp=sharing"> ppt link here </a>
+  [CLICK HERE](https://drive.google.com/file/d/1x-Obu1wv_1eVQyCYY2bqUhU8cjddyhcM/view?usp=sharing)
   
   
-## Table of Contents:
-
 ## Technology Stack:
   1) [`Flutter`](https://flutter.dev/) 
   2) [`Dart`](https://dart.dev/)
