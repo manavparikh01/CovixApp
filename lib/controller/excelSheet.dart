@@ -17,11 +17,11 @@ class ExcelSheetController extends GetxController {
   }
 
   Map<String, dynamic> userData = {
-    'PID': '',
+    'P_id': '',
     'Name': '',
     'Last': '',
     'Age': 69,
-    'Gender': '',
+    'Gender': 'M',
     'Cancer': 0,
     'Dibeties': 0,
     'HighBP': 0,
@@ -79,7 +79,7 @@ class ExcelSheetController extends GetxController {
     /// we can use this [sheetObject] to perform various operations
     Sheet sheetObject = excel['Sheet1'];
     sheetObject.appendRow([
-      data['PID'],
+      data['P_id'],
       data['Name'],
       data['Last'],
       int.parse(data['Age']),
@@ -145,7 +145,7 @@ class ExcelSheetController extends GetxController {
 
     firebase_storage.DownloadTask task = firebase_storage
         .FirebaseStorage.instance
-        .ref('/Book 3.xlsx')
+        .ref('/Patient_Data.xlsx')
         .writeToFile(downloadToFile);
     try {
       firebase_storage.TaskSnapshot snapshot = await task;
@@ -166,7 +166,7 @@ class ExcelSheetController extends GetxController {
 
     try {
       await firebase_storage.FirebaseStorage.instance
-          .ref('/Book 3.xlsx')
+          .ref('/Patient_Data.xlsx')
           .putFile(file);
     } catch (e) {
       // e.g, e.code == 'canceled'
