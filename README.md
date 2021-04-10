@@ -7,7 +7,7 @@
 
 
 ## Introduction:
-  Intro of the project
+  A Flutter App to effectively manage the vaccine allocation process in India
   
 ## Demo Video Link:
   
