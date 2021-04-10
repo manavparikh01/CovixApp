@@ -36,6 +36,15 @@ Team Name: M.A.R.S
 * [Shubh Almal](https://github.com/shubh0125)
 * [Rishabh Mishra](https://github.com/mypherhistamine)
 
+## Steps to install
+
+```dart
+git clone https://github.com/manavparikh01/CovixApp.git
+cd CovixApp
+flutter run
+```
 
 ### Made at:
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
+
+
