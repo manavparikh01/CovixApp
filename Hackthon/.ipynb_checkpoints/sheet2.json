@@ -1,0 +1,38 @@
+﻿[
+	{
+		"P_id": "P006",
+		"Name": "Isha",
+		"Last Name": "Almal",
+		"Age": "34",
+		"Gender": "F",
+		"Disease_A": "0",
+		"Disease_B": "1",
+		"Disease_C": "1",
+		"Total": "0"
+	},
+	{
+		"P_id": "P007",
+		"Name": "Rajat",
+		"Last Name": "Reddy",
+		"Age": "20",
+		"Gender": "M",
+		"Disease_A": "1",
+		"Disease_B": "1",
+		"Disease_C": "1",
+		"Total": "0"
+	},
+	{
+		"P_id": "P008",
+		"Name": "Lodu",
+		"Last Name": "Singh",
+		"Age": "39",
+		"Gender": "M",
+		"Disease_A": "1",
+		"Disease_B": "1",
+		"Disease_C": "0",
+		"Total": "0"
+	},
+	{
+		"P_id": ""
+	}
+]

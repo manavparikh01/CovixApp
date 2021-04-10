@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517940316925",
+    "project_id": "doctor-corona-a2b66",
+    "storage_bucket": "doctor-corona-a2b66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517940316925:android:e34d3af1445e4115bd8c94",
+        "android_client_info": {
+          "package_name": "com.example.abcd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517940316925-058h9jgf7afd5c81upd0u5ktnoq4f8gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlIvLFRo0wnq0llnzukfj9pQxAIM88yX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517940316925-058h9jgf7afd5c81upd0u5ktnoq4f8gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

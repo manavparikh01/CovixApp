@@ -1,0 +1,8 @@
+[
+{"P_id":"P000","Name":"Apoorva","Last Name":"Reddy","Age":"72","Gender":"F","Disease_A":"1","Disease_B":"0","Disease_C":"1","Total":"0"},
+{"P_id":"P001","Name":"Shubh","Last Name":"Almal","Age":"45","Gender":"M","Disease_A":"1","Disease_B":"1","Disease_C":"0","Total":"0"},
+{"P_id":"P002","Name":"Khushi","Last Name":"Singh","Age":"49","Gender":"F","Disease_A":"1","Disease_B":"0","Disease_C":"0","Total":"0"},
+{"P_id":"P003","Name":"Arko","Last Name":"Mukherjee","Age":"60","Gender":"M","Disease_A":"1","Disease_B":"1","Disease_C":"1","Total":"0"},
+{"P_id":"P004","Name":"Rishabh","Last Name":"Singh","Age":"66","Gender":"M","Disease_A":"0","Disease_B":"1","Disease_C":"1","Total":"0"},
+{"P_id":"P005","Name":"Manav","Last Name":"xyz","Age":"69","Gender":"M","Disease_A":"0","Disease_B":"0","Disease_C":"1","Total":"0"}
+]

@@ -1,0 +1,68 @@
+{
+  "P001" : {
+    "Age" : 51,
+    "Disease_A" : 1,
+    "Disease_B" : 1,
+    "Disease_C" : 0,
+    "Gender" : "M",
+    "Last" : "Almal",
+    "Name" : "Shubh",
+    "Total" : 0,
+    "Vaccinated" : 0
+  },
+  "P002" : {
+    "Age" : 45,
+    "Disease_A" : 1,
+    "Disease_B" : 0,
+    "Disease_C" : 1,
+    "Gender" : "F",
+    "Last" : "Reddy",
+    "Name" : "Apoorva",
+    "Total" : 0,
+    "Vaccinated" : 1
+  },
+  "P003" : {
+    "Age" : 49,
+    "Disease_A" : 1,
+    "Disease_B" : 0,
+    "Disease_C" : 0,
+    "Gender" : "F",
+    "Last" : "Singh",
+    "Name" : "Khushi",
+    "Total" : 0,
+    "Vaccinated" : 0
+  },
+  "P004" : {
+    "Age" : 60,
+    "Disease_A" : 0,
+    "Disease_B" : 1,
+    "Disease_C" : 1,
+    "Gender" : "M",
+    "Last" : "Mukherjee",
+    "Name" : "Arko",
+    "Total" : 0,
+    "Vaccinated" : 0
+  },
+  "P005" : {
+    "Age" : 59,
+    "Disease_A" : 0,
+    "Disease_B" : 1,
+    "Disease_C" : 1,
+    "Gender" : "M",
+    "Last" : "Singh",
+    "Name" : "Rishabh",
+    "Total" : 0,
+    "Vaccinated" : 0
+  },
+  "P006" : {
+    "Age" : 49,
+    "Disease_A" : 0,
+    "Disease_B" : 0,
+    "Disease_C" : 1,
+    "Gender" : "M",
+    "Last" : "xyz",
+    "Name" : "Manav",
+    "Total" : 0,
+    "Vaccinated" : 0
+  }
+}

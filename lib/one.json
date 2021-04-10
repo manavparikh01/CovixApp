@@ -1,0 +1,159 @@
+{
+    "P14": {
+        "index" : 0,
+        "Name": "Sai",
+        "Last Name": "Krishna",
+        "Age": 87,
+        "Gender": "M",
+        "Disease_A": 1,
+        "Disease_B": 1,
+        "Disease_C": 1,
+        "Total": 9,
+        "Vaccinated": 1
+    },
+    "P11": {
+        "index" : 1,
+        "Name": "Zeba",
+        "Last Name": "Srivastava",
+        "Age": 71,
+        "Gender": "F",
+        "Disease_A": 1,
+        "Disease_B": 1,
+        "Disease_C": 1,
+        "Total": 9,
+        "Vaccinated": 1
+    },
+    "P3": {
+        "index" : 2,
+        "Name": "Arko",
+        "Last Name": "Mukherjee",
+        "Age": 60,
+        "Gender": "M",
+        "Disease_A": 1,
+        "Disease_B": 1,
+        "Disease_C": 1,
+        "Total": 9,
+        "Vaccinated": 1
+    },
+    "P7": {
+        "Name": "Payal",
+        "Last Name": "Mishra",
+        "Age": 45,
+        "Gender": "F",
+        "Disease_A": 1,
+        "Disease_B": 1,
+        "Disease_C": 1,
+        "Total": 9,
+        "Vaccinated": 1
+    },
+    "P4": {
+        "Name": "Rishabh",
+        "Last Name": "Singh",
+        "Age": 66,
+        "Gender": "M",
+        "Disease_A": 0,
+        "Disease_B": 1,
+        "Disease_C": 1,
+        "Total": 7,
+        "Vaccinated": 1
+    },
+    "P0": {
+        "Name": "Apoorva",
+        "Last Name": "Reddy",
+        "Age": 72,
+        "Gender": "F",
+        "Disease_A": 1,
+        "Disease_B": 0,
+        "Disease_C": 1,
+        "Total": 6,
+        "Vaccinated": 1
+    },
+    "P9": {
+        "Name": "Rajat",
+        "Last Name": "Reddy",
+        "Age": 69,
+        "Gender": "M",
+        "Disease_A": 1,
+        "Disease_B": 0,
+        "Disease_C": 1,
+        "Total": 6,
+        "Vaccinated": 1
+    },
+    "P6": {
+        "Name": "Akash",
+        "Last Name": "Sharma",
+        "Age": 45,
+        "Gender": "M",
+        "Disease_A": 1,
+        "Disease_B": 0,
+        "Disease_C": 1,
+        "Total": 6,
+        "Vaccinated": 1
+    },
+    "P1": {
+        "Name": "Shubh",
+        "Last Name": "Almal",
+        "Age": 45,
+        "Gender": "M",
+        "Disease_A": 1,
+        "Disease_B": 1,
+        "Disease_C": 0,
+        "Total": 5,
+        "Vaccinated": 1
+    },
+    "P8": {
+        "Name": "Sakshi",
+        "Last Name": "Murthi",
+        "Age": 43,
+        "Gender": "F",
+        "Disease_A": 1,
+        "Disease_B": 1,
+        "Disease_C": 0,
+        "Total": 5,
+        "Vaccinated": 1
+    },
+    "P5": {
+        "Name": "Manav",
+        "Last Name": "xyz",
+        "Age": 66,
+        "Gender": "M",
+        "Disease_A": 0,
+        "Disease_B": 0,
+        "Disease_C": 1,
+        "Total": 4,
+        "Vaccinated": 1
+    },
+    "P2": {
+        "Name": "Khushi",
+        "Last Name": "Singh",
+        "Age": 49,
+        "Gender": "F",
+        "Disease_A": 1,
+        "Disease_B": 0,
+        "Disease_C": 0,
+        "Total": 2,
+        "Vaccinated": 1
+    },
+    "P13": {
+        "Name": "Daksh",
+        "Last Name": "Jai",
+        "Age": 65,
+        "Gender": "M",
+        "Disease_A": 1,
+        "Disease_B": 1,
+        "Disease_C": 0,
+        "Total": 5,
+        "Vaccinated": 0
+    },
+    "P12": {
+        "Name": "Roshini",
+        "Last Name": "Rao",
+        "Age": 34,
+        "Gender": "F",
+        "Disease_A": 1,
+        "Disease_B": 0,
+        "Disease_C": 1,
+        "Total": 6,
+        "Vaccinated": 0
+    }
+}
