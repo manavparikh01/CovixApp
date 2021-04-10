@@ -20,6 +20,8 @@ class _SecondHomePageState extends State<SecondHomePage> {
 
   String genDer = 'Male';
 
+  String male = 'M';
+  String female = 'F';
   // Map<String, dynamic> userData = {
   //   'PID': '',
   //   'first_name': '',
@@ -45,6 +47,10 @@ class _SecondHomePageState extends State<SecondHomePage> {
           }
         },
         onChanged: (value) {
+          if (keyToEdit == "Age") {
+            print("ys ");
+            excelSheetController.userData[keyToEdit] = int.parse(value);
+          }
           excelSheetController.userData[keyToEdit] = value;
         },
         style: TextStyle(color: Colors.white),
@@ -121,7 +127,16 @@ class _SecondHomePageState extends State<SecondHomePage> {
         onChanged: (String newValue) {
           setState(() {
             genDer = newValue;
-            excelSheetController.userData[keyToEdit] = newValue;
+            // print(newValue);
+            if (newValue == "Male") {
+              // print("m");
+              excelSheetController.userData[keyToEdit] = "M";
+              print(excelSheetController.userData);
+            } else if (newValue == "Female") {
+              print("f");
+              excelSheetController.userData[keyToEdit] = "F";
+              print(excelSheetController.userData);
+            }
           });
         },
         items: ['Male', 'Female'].map<DropdownMenuItem<String>>((String value) {
@@ -214,10 +229,12 @@ class _SecondHomePageState extends State<SecondHomePage> {
                           ),
                           onPressed: () {
                             Navigator.pop(
-                                context,
-                                MaterialPageRoute(
-                                    builder: (BuildContext context) =>
-                                        ThirdHomePage()));
+                              context,
+                              MaterialPageRoute(
+                                builder: (BuildContext context) =>
+                                    ThirdHomePage(),
+                              ),
+                            );
                           },
                         ),
                         SizedBox(
