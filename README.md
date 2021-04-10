@@ -1,10 +1,12 @@
-<h1 align="center">Covix App</h1>
+<h1 align="center">COVIX</h1>
 <p align="center">
 </p>
 
 <a href="https://hack36.com" > <img src="http://bit.ly/BuiltAtHack36" height=50px > </a>
 
-
+<p align="left" width="100%">
+    <img width="33%" src="https://user-images.githubusercontent.com/52506383/114286571-9ec17480-9a7d-11eb-9f63-b03e0ba3f486.jpeg"> 
+</p>
 
 ## Introduction:
   A Flutter App to effectively manage the vaccine allocation process in India
